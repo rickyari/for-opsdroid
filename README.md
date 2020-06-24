@@ -1,1 +1,1 @@
-# for-opsdroid
+# skill-greetings
